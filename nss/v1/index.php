@@ -10,7 +10,7 @@
  */
 
 # Definir el path
-define('___ROOT___', '../../');
+define('___ROOT___', '../');
 
 # Cargadores principales
 require ___ROOT___ . 'Ocrend/Kernel/Config/Config.php';
