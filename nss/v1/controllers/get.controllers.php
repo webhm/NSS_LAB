@@ -12,12 +12,6 @@
 use app\models\nss as NSSModel;
 
 $app->get('/', function () use ($app) {
-
-    return $app->json(array());
-});
-
-$app->get('/test', function () use ($app) {
-
     return $app->json(array());
 });
 
